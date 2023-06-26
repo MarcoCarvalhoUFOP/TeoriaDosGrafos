@@ -21,3 +21,45 @@ note={Version 1.0; Creative Commons BY-NC-SA 4.0.}}
 
 Marco Antonio Moreira de Carvalho
 marco.opt@gmail.com
+
+Sumário do conteúdo dos arquivos
+
+Histórico, definições, topologia
+
+Representação computacional, isomorfismo
+
+Passeio, cadeia, caminho, ciclo, alcançabilidade, fechos
+
+Conexidade, subgrafos
+
+Busca em grafos - BFS, DFS
+
+Caminhos mais curtos, Algoritmo de Dijkstra
+
+Algoritmo de Bellman-Ford
+
+Algoritmo de Floyd-Warshall
+
+Redes de Fluxo
+
+Algoritmo Ford-Fulkerson
+
+Problemas Intratáveis
+
+Casamento em grafos, Algoritmo Húngaro
+
+Conjuntos independentes, cliques e conjuntos dominantes
+
+Coloração de grafos e teorema das 4 cores
+
+Árvores, Problema da árvore geradora
+
+Ordenação Topológica
+
+Planaridade em grafos
+
+Ciclos hamiltonianos e Eulerianos
+
+Problema do caixeiro viajante
+
+Problema do carteiro chinês
