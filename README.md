@@ -38,7 +38,7 @@ Caminhos mais curtos, Algoritmo de Dijkstra
 
 Algoritmo de Bellman-Ford
 
-Algoritmo de Floyd-Warshall
+Algoritmo A*
 
 Redes de Fluxo
 
@@ -50,13 +50,13 @@ Casamento em grafos, Algoritmo Húngaro
 
 Conjuntos independentes, cliques e conjuntos dominantes
 
+Planaridade em grafos
+
 Coloração de grafos e teorema das 4 cores
 
 Árvores, Problema da árvore geradora
 
 Ordenação Topológica
-
-Planaridade em grafos
 
 Ciclos hamiltonianos e Eulerianos
 
